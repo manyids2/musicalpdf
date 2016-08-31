@@ -1,0 +1,11 @@
+./data/
+*.dat
+*.mat
+*.sublime-settings
+*.sublime-project
+*.sublime-workspace
+*.json
+*.single
+*.uint8
+*.uint32
+*.double
